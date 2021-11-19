@@ -1,5 +1,5 @@
 - 👋 'Tis 80
-- 👀 I’m interested in becoming a fullstack dev
+- 👀 I’m learning to become a fullstack dev
 - 🌱 I’m currently learning Java
 
 <!---
